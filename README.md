@@ -1,4 +1,4 @@
-# 19104053_Ananda-Aulia-Rizky_Praktikum-PPB
+# 19104053_Ananda-Aulia-Rizky
 ## Repository Praktikum Pemrograman Perangkat Bergerak
 ## Pertemuan 1
 - Class
