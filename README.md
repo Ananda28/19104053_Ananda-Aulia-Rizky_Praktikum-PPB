@@ -7,3 +7,6 @@
 - State Array
 - State IF
 - dll
+## Pertemuan 2
+- Activity
+- Text View
