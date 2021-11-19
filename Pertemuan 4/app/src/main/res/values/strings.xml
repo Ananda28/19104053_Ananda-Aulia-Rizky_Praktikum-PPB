@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="prodi_saya" />
+    <string name="btn_call_browser">Buka Prodi</string>
+    <string name="btn_call_camera">Buka Browser</string>
+    <string name="input_phone_number">Buka Camera</string>
+    <string name="btn_call_phone">Buka Phone Number</string>
+    <string name="inputNim" />
+    <string name="input_name" />
+    <string name="btn_to_second_fragment" />
+    <string name="open_fragment" />
+    <string name="fragment_second" />
+    <string name="btn_back_home" />
+</resources>
